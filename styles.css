@@ -142,6 +142,10 @@ main {
     background-color: var(--orange1);
 }
 
+#result-text {
+    margin: auto 50px;
+}
+
 /* Footer */
 footer {
 
